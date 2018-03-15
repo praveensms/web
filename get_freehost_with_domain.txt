@@ -1,0 +1,2 @@
+Visit netlify.com and create account
+and then signnup with github.
